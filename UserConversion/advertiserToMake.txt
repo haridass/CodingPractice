@@ -1,0 +1,111 @@
+23183309,honda,honda,n
+23198549,lexus,lexus,n
+23200949,land rover,land rover,n
+23200949,landrover,land rover,n
+23200949,land-rover,land rover,n
+23201549,ford,ford,n
+23216429,acura,acura,n
+23218229,mitsubishi,mitsubishi,n
+23219669,subaru,subaru,n
+23226749,jaguar,jaguar,n
+23228189,honda,honda,n
+23238269,toyota,toyota,n
+23260469,honda,honda,n
+23266949,ford,ford,n
+23268989,saab,saab,n
+23272109,honda,honda,n
+23283389,audi,audi,n
+23284349,honda,honda,n
+23287469,land rover,land rover,n
+23287469,landrover,land rover,n
+23287469,land-rover,land rover,n
+23290349,toyota,toyota,n
+23325149,acura,acura,n
+23332589,toyota,toyota,n
+23352269,land rover,land rover,n
+23352269,landrover,land rover,n
+23352269,land-rover,land rover,n
+23358029,ford,ford,n
+23367389,acura,acura,n
+23371589,lincoln,lincoln,n
+23371709,toyota,toyota,n
+23373749,mazda,mazda,n
+23385389,ford,ford,n
+23386109,scion,scion,n
+23397029,mini,mini,n
+23422349,toyota,toyota,n
+23437229,honda,honda,n
+23463389,honda,honda,n
+23488949,mercedesbenz,mercedes-benz,n
+23488949,mercedes-benz,mercedes-benz,n
+23491589,mazda,mazda,n
+23499869,ferrari,ferrari,n
+23501549,mazda,mazda,n
+23507189,honda,honda,n
+23507309,bmw,bmw,n
+23513549,hyundai,hyundai,n
+23520509,toyota,toyota,n
+23522189,nissan,nissan,n
+23554949,toyota,toyota,n
+23561789,volkswagen,volkswagen,n
+23564309,mercedesbenz,mercedes-benz,n
+23564309,mercedes-benz,mercedes-benz,n
+23567789,acura,acura,n
+23611109,acura,acura,n
+23613149,honda,honda,n
+23618189,suzuki,suzuki,n
+23633429,jaguar,jaguar,n
+23645309,audi,audi,n
+23646149,lexus,lexus,n
+23656709,toyota,toyota,n
+23661989,toyota,toyota,n
+23665589,infiniti,infiniti,n
+23672549,ford,ford,n
+23674349,hyundai,hyundai,n
+23723429,ferrari,ferrari,n
+23727869,toyota,toyota,n
+23741549,smart,smart,n
+23768069,chevrolet,chevrolet,n
+23774309,chevrolet,chevrolet,n
+23779349,kia,kia,n
+23780429,land rover,land rover,n
+23780429,landrover,land rover,n
+23780429,land-rover,land rover,n
+23784509,ford,ford,n
+23790269,volvo,volvo,n
+23791949,chevrolet,chevrolet,n
+23795069,honda,honda,n
+23796749,chevrolet,chevrolet,n
+23812469,ford,ford,n
+23831549,acura,acura,n
+23841629,honda,honda,n
+23867549,chevrolet,chevrolet,n
+23883629,volvo,volvo,n
+23887349,toyota,toyota,n
+23888549,cadillac,cadillac,n
+23899229,honda,honda,n
+24191309,honda,honda,n
+25409069,honda,honda,n
+26972069,honda,honda,n
+27103229,honda,honda,n
+27850469,toyota,toyota,n
+28036349,honda,honda,n
+30014069,honda,honda,n
+32682149,honda,honda,n
+32768789,maserati,maserati,n
+33067469,acura,acura,n
+33067709,honda,honda,n
+33096149,toyota,toyota,n
+33502229,honda,honda,n
+34161629,honda,honda,n
+34161749,honda,honda,n
+34343429,honda,honda,n
+34532549,honda,honda,n
+34793789,buick,buick,n
+34793789,gmc,gmc,n
+35559509,toyota,toyota,n
+37176269,bentley,bentley,n
+37968029,honda,honda,n
+38226149,ford,ford,n
+45261269,honda,honda,n
+55312349,mclaren,mclaren,n
