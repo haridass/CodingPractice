@@ -1,0 +1,4 @@
+hadoop fs -cat /DMLE/bfm-Dev/generated/input/f2/part-r-00029
+B_C	A
+A_B	C,D
+A_C	B
